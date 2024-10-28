@@ -7,7 +7,7 @@ const About = () => {
   const [hasCopied, setHasCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(' adrian@jsmastery.pro');
+    navigator.clipboard.writeText(' faithamarachi860@gmail.com');
     setHasCopied(true);
 
     setTimeout(() => {
@@ -33,7 +33,7 @@ const About = () => {
 
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container">
-            <img src="assets/stack.png" alt="grid-2" className="w-full sm:h-[276px] h-fit object-contain" />
+            <img src="assets/mysta.png" alt="grid-2" className="w-full sm:h-[276px] h-fit object-contain" />
 
             <div>
               <p className="grid-headtext">Tech Stack</p>
