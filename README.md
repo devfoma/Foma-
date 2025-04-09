@@ -1,2 +1,2 @@
-# Foma-
-My personal Journey
+# Foma
+This is my portfolio and personal journey
