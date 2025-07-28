@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'Foma Media is a revolutionary video streaming platform that uses the technology of youtube in real time.',
     subdesc:
       'Built as a unique Software-as-a-Service app with React.js 14, Material ui and RapidAPI. Foma Media is designed for optimal performance and scalability.',
-    href: ' ',
+    href: 'https://foma-media-eax9.vercel.app/',
     texture: ' ',
     logo: '/assets/panda-8269336.svg',
     logoStyle: {
@@ -85,11 +85,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Linkedin Clone',
-    desc: '...',
+    title: 'Ayo Game',
+    desc: 'The Ayo game also known as Ayoayo, Ayò Olópón (Yoruba), Oware (Ghana), and more—is one of the oldest board games in the world. Its origins trace back over 3,000 years, with similar seed-sowing games found in ancient Egypt and West Africa.',
     subdesc:
-      'Coming soon...',
-    href: ' ',
+      'Web3 project on solana',
+    href: 'https://real-ayo-game.vercel.app/',
     texture: ' ',
     logo: '/assets/project-logo2.png',
     logoStyle: {
@@ -116,7 +116,7 @@ export const myProjects = [
     desc: 'My skills all in one place',
     subdesc:
       'This shows about me, how to contact me and my skills.',
-    href: ' ',
+    href: 'foma.vercel.app',
     texture: '/ ',
     logo: '/assets/project-logo3.png',
     logoStyle: {
